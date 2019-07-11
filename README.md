@@ -68,3 +68,8 @@ Clique aqui para interagir com nosso [Protótipo](https://xd.adobe.com/view/a492
 Para esse projeto, seguimos o Business Model Canvas, pois ele mostra a visão de negócio de um modo mais simplificado, tornando fácil sua compreensão.  
 
 ![BMC](images/bmc.png)
+
+## Email cadastrado para testes
+Caso não queira realizar cadastro para fazer teste, utilize o já cadastrado: jogador@gmail.com - senha: 123123 - melhor visualizado em mobile.
+
+
